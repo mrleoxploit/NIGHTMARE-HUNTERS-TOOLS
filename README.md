@@ -3,21 +3,15 @@ Author: MR.LeoXploit
 
 (![image](https://raw.githubusercontent.com/mrleoxploit/NIGHTMARE-HUNTERS-TOOLS/main/nightmarehunterstools.jpg)
 
-# Hacking Tools
-Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
+# Alat Peretasan
+Alat untuk membantu Anda dengan peretasan etis, peretasan media sosial, info telepon, serangan Gmail, serangan nomor telepon, penemuan pengguna, peretasan webcam
 
-• Powerful DDOS attack tool!!
+• Alat serangan DDOS yang kuat!!
 
-# Operating System Requirements
-works on any of the following operating systems:
+# Persyaratan Sistem Operasi
+berfungsi pada salah satu sistem operasi berikut: • Android (Menggunakan Aplikasi Termux) • Linux (Sistem Berbasis Debian) • Unix
 
-• Android (Using the Termux App)
-
-• Linux (Debian Based Systems)
-
-• Unix
-
-# How to Install
+# Cara Menginstal
 * Buka terminal dan ketik
 * `pkg update && pkg upgrade`
 * `apt update && apt upgrade`
@@ -27,9 +21,9 @@ works on any of the following operating systems:
 * `pkg install python3`
 * `git clone https://github.com/mrleoxploit/NIGHTMARE-HUNTERS-TOOLS`
 * `cd NIGHTMARE-HUNTERS-TOOLS`
-* `bash NIGHTMARE-HUNTERS-TOOLS`
+* `bash NIGHTMARE-HUNTERS-TOOLS.sh`
 
 
-# Warning
+# Peringatan
 
-We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
+Kami tidak bertanggung jawab atas penyalahgunaan atau kerusakan yang disebabkan oleh program ini. Gunakan alat ini dengan risiko Anda sendiri!
